@@ -1,7 +1,8 @@
 # shard_fetcher
 A python way to web scrap the shard, some of the categories  dont have description otherwise i would have made a dataframe otherwise the functions can be used irrespective for the name tags to find the corresponding names in github. I will although add the categories, as it is there for every shard, so will add those and then you will have the indexed dataframe of the all the recent shard with a single click.To run the same
-
+```
 shard_card("https://shardbox.org/")
+```
 
 Thank you [Margret Riegert](https://github.com/nobodywasishere) for providing the link.
 

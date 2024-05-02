@@ -14,7 +14,7 @@ shard_card("https://shardbox.org/")
 
 Thank you [Margret Riegert](https://github.com/nobodywasishere) for providing the link.
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
